@@ -9,4 +9,5 @@
         "adapter-tomcat8"
         "lein-template"
         "plugin"]
-  :eval-in :leiningen)
+  :eval-in-leiningen true)
+
